@@ -1,4 +1,4 @@
-# An AWS Lambda Based Function to Copy S3 Objects
+# [Nerd version] An AWS Lambda Based Function to Copy S3 Objects and add public-read ACL
 
 With this AWS Lambda function, you can copy objects from a source S3 bucket to one or more target S3 buckets as they are added to the source bucket.
 
